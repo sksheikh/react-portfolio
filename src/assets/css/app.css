@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* color */
+:root{
+    --primary-color: #C9F31D;
+    --secondary-color: #1F1F1F;
+}
+
+a{
+    text-decoration: none;
+}
